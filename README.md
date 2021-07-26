@@ -4,7 +4,7 @@ This is a Task-Manager REST API.Where user can maitain the list of its day to da
 
 <h1>Features</h1>
  <ul>
-   <li>Create ,update and delte a user account.</li>
+   <li>Create ,update and delete a user account.</li>
    <li>Sending automated email using the SendGrid API.</li>
    <li>Create, edit and delete tasks.</li>
    <li>User can upload profile image.</li>
@@ -27,5 +27,5 @@ This is a Task-Manager REST API.Where user can maitain the list of its day to da
   <li>Express</li>
   <li>MongoDB</li>
   <li>JWT for authentication</li>
-  <li>SendGrid API</li>
+  <li>Sendgrid API</li>
  </ul>
